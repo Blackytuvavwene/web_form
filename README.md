@@ -10,6 +10,7 @@ Below are screenshots of the web app.
 <img src='screenshots/web_form_fill.png' width="720">
 <img src='screenshots/web_form_not_fill.png' width="720">
 <img src='screenshots/web_welcome_screen.png' width="720">
+<img src='screenshots/form_fill_web_flutter_app.gif' width="720">
 </p>
 
 ## Getting Started
